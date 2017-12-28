@@ -1,8 +1,8 @@
 {
 	"name": "aladeusi/ebulk-php",
     "type": "library",
-    "description": "Ebulk Library for PHP",
-    "keywords": ["ebulk","ebulk sms","sms api"],
+    "description": "ebulk-php is a library for using the [Ebulk SMS](http://ebulksms.com) API from PHP. ebulk-php is a library for using the [Ebulk SMS](http://ebulksms.com) API from PHP. This library is first and designed to make  Ebulk API consumption seamless.",
+    "keywords": ["ebulk","ebulk php library","ebulk library","ebulk sms","sms api","ebulk api libary","ebulk php api library"],
     "homepage": "https://github.com/Seldaek/monolog",
     "license": "MIT",
     "authors": [
