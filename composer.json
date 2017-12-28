@@ -1,0 +1,27 @@
+{
+	"name": "GbemiALAD/ebulk-php",
+    "type": "library",
+    "description": "Ebulk Library for PHP",
+    "keywords": ["ebulk","ebulk sms","sms api"],
+    "homepage": "https://github.com/Seldaek/monolog",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Olakunle Aldeusi",
+            "email": "Olakunleolugbenga@gmail.com",
+            "homepage": "http://about.me/olakunleAladeusi",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.5"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~6.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "EbulkSMS\\": "EbulkSMS"
+        }
+    }
+}
