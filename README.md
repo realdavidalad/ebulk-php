@@ -38,8 +38,8 @@ First you initialize the library with your API key. This key can be retrived fro
 
 ```php
 $Initialize=new Initialize([
-    'Key'=>'4c8260b451691cdbb07dfa8e47a994bdcd412b51',
-    'Username'=>'smilesteadily@gmail.com'
+    'Key'=>'YourAPIKey',
+    'Username'=>'YourEbulkUserName'
     ]);
 ```
 
