@@ -1,5 +1,5 @@
 {
-	"name": "GbemiALAD/ebulk-php",
+	"name": "aladeusi/ebulk-php",
     "type": "library",
     "description": "Ebulk Library for PHP",
     "keywords": ["ebulk","ebulk sms","sms api"],
@@ -14,6 +14,7 @@
         }
     ],
     "require": {
+        "monolog/monolog": "1.0.*",
         "php": ">=5.5"
     },
     "require-dev": {
