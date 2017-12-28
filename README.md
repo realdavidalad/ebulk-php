@@ -25,7 +25,6 @@ composer update
 
 Require composer autoload file and import Initialize, SendMessage and Response classes
 
-#### In JSON Format
 ```php
     require ('../../vendor/autoload.php');
 
