@@ -1,12 +1,10 @@
 language: php
 
 
-
-matrix:
-    allow_failures:
-        - php: hhvm
+php:
+   -7.0
 
 install: composer install --no-interaction --prefer-source
   
 script:
-- php vendor/bin/phpunit -c phpunit.xml
+- vendor/bin/phpunit
