@@ -1,6 +1,9 @@
 # ebulk-php
 
 [![Build Status](https://secure.travis-ci.org/Aladeusi/ebulk-php.png?branch=master)](https://travis-ci.org/Aladeusi/ebulk-php)
+[![license](https://img.shields.io/github/license/Aladeusi/ebulk-php.svg)]()
+
+[![Packagist](https://img.shields.io/packagist/v/aladeusi/ebulk-php.svg)]()
 
 ebulk-php is a library for using the [Ebulk SMS](http://ebulksms.com) API from PHP.
 
