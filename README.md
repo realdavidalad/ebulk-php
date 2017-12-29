@@ -1,6 +1,6 @@
 # ebulk-php
 
-[![Build Status](https://secure.travis-ci.org/perfectmak/paystack-php.png?branch=master)](http://travis-ci.org/perfectmak/paystack-php)
+[![Build Status](https://secure.travis-ci.org/Aladeusi/ebulk-php.png?branch=master)](https://travis-ci.org/Aladeusi/ebulk-php)
 
 ebulk-php is a library for using the [Ebulk SMS](http://ebulksms.com) API from PHP.
 
