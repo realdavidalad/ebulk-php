@@ -26,7 +26,7 @@ composer update
 Require composer autoload file and import Initialize, SendMessage and Response classes
 
 ```php
-    require ('../../vendor/autoload.php');
+    require ('vendor/autoload.php');
 
     use EbulkSMS\Authentication\Initialize;
     use EbulkSMS\Response\Response;
