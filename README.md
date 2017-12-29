@@ -47,7 +47,7 @@ $Initialize=new Initialize([
 
 ### Send SMS
 
-You can either send sms in JSON format or XML format
+You can either send sms in JSON format or XML format.
 
 #### In JSON Format
 ```php
