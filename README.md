@@ -10,7 +10,7 @@ This library is first and designed to make  Ebulk API consumption seamless.
 
 To install using composer
 ```
-composer require aladeusi/ebulk-php
+composer require aladeusi/ebulk-php=dev-master
 ```
 
 Navigate to your root directory and update composer to install ebulk-php dependencies
