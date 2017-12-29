@@ -1,5 +1,5 @@
 {
-	"name": "aladeusi/ebulk-php",
+	"name": "ebulk-php",
     "type": "library",
     "description": "ebulk-php is a library for using the Ebulk SMS API from PHP.  This library is first and designed to make  Ebulk API consumption seamless.",
     "keywords": ["ebulk","ebulk php library","ebulk library","ebulk sms","sms api","ebulk api libary","ebulk php api library"],
