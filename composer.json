@@ -3,12 +3,12 @@
     "type": "library",
     "description": "ebulk-php is a library for using the Ebulk SMS API from PHP.  This library is first and designed to make  Ebulk API consumption seamless.",
     "keywords": ["ebulk","ebulk php library","ebulk library","ebulk sms","sms api","ebulk api libary","ebulk php api library"],
-    "homepage": "https://github.com/Seldaek/monolog",
+    "homepage": "https://github.com/Aladeusi/ebulk-php",
     "license": "MIT",
     "authors": [
         {
-            "name": "Olakunle Aldeusi",
-            "email": "Olakunleolugbenga@gmail.com",
+            "name": "Olakunle Olugbenga Aladeusi",
+            "email": "olakunleolugbenga@gmail.com",
             "homepage": "http://about.me/olakunleAladeusi",
             "role": "Developer"
         }
